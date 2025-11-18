@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm **Kanma Chizea**  
-**Mobile Engineer (Flutter) | Clean Architecture | MVVM**
+**Mobile Engineer | Flutter | React native | Clean Architecture | MVVM**
 
 I build high-performance, scalable mobile apps with Flutter, delivering production-ready solutions across various sectors including **real estate, NGOs, fintech, entertainment, and lifestyle**. I enjoy turning complex requirements into smooth, intuitive app experiences and writing clean, testable code that scales.
 
 ---
 
 ### 🚀 **What I Do**
-- Flutter & Dart development (3+ years)  
+- Mobile development (3+ years)  
 - MVVM architecture (Provider, Riverpod, Stacked, ChangeNotifier)  
 - Clean architecture & modular codebases  
 - REST API integrations & state management  
