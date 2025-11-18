@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Kanma</h1>
-<h3 align="center">A passionate cross platform mobile developer from Nigeria</h3>
+## 👋 Hi, I'm **Kanma Chizea**  
+**Mobile Engineer (Flutter) | Clean Architecture | MVVM**
 
-- 🔭 I’m currently working on **Loger real estate app**
+I build high-performance, scalable mobile apps with Flutter, delivering production-ready solutions across various sectors including **real estate, NGOs, fintech, entertainment, and lifestyle**. I enjoy turning complex requirements into smooth, intuitive app experiences and writing clean, testable code that scales.
 
-- 💬 Ask me about **flutter**
+---
 
-- 💬 Ask me about **react-native**
+### 🚀 **What I Do**
+- Flutter & Dart development (3+ years)  
+- MVVM architecture (Provider, Riverpod, Stacked, ChangeNotifier)  
+- Clean architecture & modular codebases  
+- REST API integrations & state management  
+- Firebase, Hive, SQLite, and secure local storage  
+- CI/CD & GitHub Actions  
 
-- 📫 How to reach me **hchizea@gmail.com**
+---
 
-- 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/10araYkUub25jhpQxJE7y5TGzA1wsHAHS/view?usp=sharing)
+### 🛠 **Tech Stack**
+**Languages:** Dart, TypeScript, JavaScript  
+**Frameworks:** Flutter, React native  
+**Architecture:** MVVM, Clean Architecture, Repository Pattern  
+**State Management:** Provider, Riverpod, Bloc, ChangeNotifier, Stacked, Redux, Zustand
+**Backend/Tools:** Firebase, Appwrite, REST APIs  
+**Storage:** Hive, SQLite, SharedPreferences, Secure Storage  
+**DevOps:** Git, GitHub, GitHub Actions, Fastlane  
+**UI/UX:** Figma implementation, responsive layouts, custom animations  
 
-- ⚡ Fun fact **I love Grey's Anatomy**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ogechukwukanma-chizea-42498461/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogechukwukanma chizea" height="30" width="40" /></a>
-</p>
+### 📂 **Pinned Projects (Private / Coming Soon)**
+Most of my recent work is in **private repositories** due to production code confidentiality.  
+I’m happy to discuss:  
+- Architecture decisions  
+- Feature breakdowns  
+- State management approaches  
+- Optimization strategies  
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> Dart <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> Firebase  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> Flutter  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git </p>
-
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  Javascript  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> Kotlin <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  Postman  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  Python  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  Typescript </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanmachizea&show_icons=true&locale=en&layout=compact" alt="kanmachizea" /></p>
+### 📫 **Let’s Connect**
+- **Email:** hchizea@gmail.com  
+- **GitHub:** You're already here 😊  
